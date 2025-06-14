@@ -13,6 +13,8 @@ A simple expense-sharing application written in Go, inspired by Splitwise. Suppo
 - View group-wise balances
 
 ## Project Structure
+```
+
 /Splitwise
 ├── main.go
 ├── manager/
@@ -22,10 +24,7 @@ A simple expense-sharing application written in Go, inspired by Splitwise. Suppo
 │ ├── user.go
 │ ├── group.go
 │ ├── split.go
-
-pgsql
-Copy
-Edit
+```
 
 ## Split Types
 
